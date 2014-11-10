@@ -3,17 +3,19 @@
 one:
   nombre: MyString
   apellido: MyString
+  sexo: false
   telefono: 1
   correo: MyString
-  contraseña: MyString
   nick: MyString
-  nivel: 1
+  contrasena: MyString
+  foto: MyString
 
 two:
   nombre: MyString
   apellido: MyString
+  sexo: false
   telefono: 1
   correo: MyString
-  contraseña: MyString
   nick: MyString
-  nivel: 1
+  contrasena: MyString
+  foto: MyString

@@ -4,12 +4,8 @@ one:
   contenido: MyText
   precio: 1.5
   estado: MyString
-  user_id: 
-  article_id: 
 
 two:
   contenido: MyText
   precio: 1.5
   estado: MyString
-  user_id: 
-  article_id: 

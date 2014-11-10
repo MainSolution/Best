@@ -1,11 +1,5 @@
 class UsersController < ApplicationController
-  def new
-  end
-
   def index
-  end
-
-  def update
   end
 
   def show
@@ -14,9 +8,15 @@ class UsersController < ApplicationController
   def edit
   end
 
+  def destroy
+  end
+
+  def new
+  end
+
   def create
   end
 
-  def destroy
+  def update
   end
 end
